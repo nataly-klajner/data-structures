@@ -30,5 +30,7 @@ JSON.stringify(result, null, 4)); was used to print the var result, null as noth
 
 Used links:
 <https://gist.github.com/magicznyleszek/809a69dd05e1d5f12d01>
+
 <https://www.npmjs.com/package/cheerio>
+
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split>
