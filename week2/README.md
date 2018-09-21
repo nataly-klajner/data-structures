@@ -9,16 +9,16 @@ As there were many TRs on the code, I specified the ones to select with their st
 That was stored in a var selectionOfTheTD.
 
 Inside the function getAddressFromTD:
-⋅⋅* The var cheerioTDElement = $(element); stores the result of the function that
++ The var cheerioTDElement = $(element); stores the result of the function that
 converts the html code to cheerio, as it wouldn't be possible to use the method
 .text with an html element. 
-⋅⋅* var TDTextContent = cheerioTDElement.text(); holds the text content from the TDs.
++ var TDTextContent = cheerioTDElement.text(); holds the text content from the TDs.
 The method .text gets the text content from the element.
-⋅⋅* In var arrayOfLines = TDTextContent.split("\n");  the .split() method was used 
++ In var arrayOfLines = TDTextContent.split("\n");  the .split() method was used 
 to split the text into separate lines.
-⋅⋅* In var addressLine = arrayOfLines[3]; the fourth line is selected out of the text of each TD.
-⋅⋅* var address = addressLine.trim(); is being used to trim the extra space of indent before the text lines.
-⋅⋅* The function will return the address of each TD, with "return address;"
++ In var addressLine = arrayOfLines[3]; the fourth line is selected out of the text of each TD.
++ var address = addressLine.trim(); is being used to trim the extra space of indent before the text lines.
++ The function will return the address of each TD, with "return address;"
 
 I used the cheerio methods .map() to loop over every TD selected on line 16, converting them using the getAddressFromTD function.
 var result = selectionOfTheTD.map(getAddressFromTD).get();
