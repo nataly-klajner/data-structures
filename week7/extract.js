@@ -2,7 +2,7 @@ var fs = require('fs');
 var cheerio = require('cheerio');
 
 // Focusing on zone 4 where the addresses are
-var html = fs.readFileSync('../data/zone4.txt');
+var html = fs.readFileSync('../data/zone8.txt');
 // Loading the selector from cheerio
 var $ = cheerio.load(html);
 
@@ -13,7 +13,7 @@ var $ = cheerio.load(html);
  * 
  * Inside of all those rows, we only need the first (of three) TDs.
  */
-var selectionOfTheTD = $('tr[style="margin-bottom:10px"]');
+var selectionOfTheTR = $('tr[style="margin-bottom:10px"]');
 
 /*
 This function converts the addresses from the TDs to text
@@ -85,9 +85,9 @@ function getAddressFromTD(index, element) {
 
 // I'm using the cheerio methods .map() to loop over every TD selected on line 16
 // converting them using the getAddressFromTD function.
-var result = selectionOfTheTD.map(getAddressFromTD).get();
+var result = selectionOfTheTR.map(getAddressFromTD).get();
 
 
 //Creating a JSON file, which keeps the lines organized with indent 4.
 //For the next assignment the json file is easier to work with.
-fs.writeFileSync('./result.json', JSON.stringify(result, null, 4));
+fs.writeFileSync('./result08.json', JSON.stringify(result, null, 4));

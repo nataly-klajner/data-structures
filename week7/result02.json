@@ -1,0 +1,176 @@
+[
+    {
+        "address": "273 Bowery, Downstairs,",
+        "title": "A.A. ON THE BOWERY - AA On The Bowery",
+        "hours": "Fridays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "AFTER FIVE - After Five",
+        "hours": "Thursdays From  6:15 PM to 7:15 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "AFTERNOON DELIGHT -",
+        "hours": "Saturdays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "232 W. 11th Street,",
+        "title": "ARTISTS IN RECOVERY (A.R.T.) -",
+        "hours": "Sundays From  6:30 PM to 7:45 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "BAGELS AND BIG BOOK -",
+        "hours": "Sundays From  10:30 AM to 12:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "253 Center Street, 3rd Floor,",
+        "title": "CENTER MEETING -",
+        "hours": "Mondays From  5:15 PM to 6:15 PM Meeting Type OD = Open Discussion meeting Special Interest Meditation at Meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "273 Bowery,",
+        "title": "EAST VILLAGE SOBER AGNOSTICS - Sober Agnostics",
+        "hours": "Fridays From  6:45 PM to 8:00 PM Meeting Type OD = Open Discussion meeting Special Interest Agnostic",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "487 Hudson Street, Basement,",
+        "title": "GREENWICH VILLAGE - Greenwich Village",
+        "hours": "Mondays From  7:15 PM to 8:15 PM Meeting Type B = Beginners meeting\nTuesdays From  7:15 PM to 8:15 PM Meeting Type BB = Big Book meeting\nWednesdays From  7:15 PM to 8:15 PM Meeting Type OD = Open Discussion meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type S = Step meeting\nMondays From  8:30 PM to 9:30 PM Meeting Type S = Step meeting Special Interest Steps 1-2-3",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "292 Henry Street, Basement,",
+        "title": "GRUPO CENTRAL - Grupo Central",
+        "hours": "Sundays From  3:00 PM to 4:00 PM Meeting Type O = Open meeting\nTuesdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "HAPPY, JOYOUS AND FREE -",
+        "hours": "s From  12:00 AM to 12:00 AM\nMondays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting Special Interest Gay Men",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "141 Henry Street, 1st Floor,",
+        "title": "LOWER EAST SIDE -",
+        "hours": "Tuesdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "hours": "Mondays From  12:00 AM to 1:15 AM Meeting Type S = Step meeting\nSundays From  12:00 AM to 1:15 AM Meeting Type S = Step meeting\nWednesdays From  12:00 AM to 1:15 AM Meeting Type B = Beginners meeting\nSaturdays From  12:00 AM to 1:15 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  12:00 AM to 1:15 AM Meeting Type C = Closed Discussion meeting\nFridays From  12:00 AM to 1:15 AM Meeting Type C = Closed Discussion meeting Special Interest Promises\nThursdays From  12:00 AM to 1:15 AM Meeting Type C = Closed Discussion meeting\nSaturdays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nTuesdays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nFridays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nMondays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nThursdays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nSundays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nWednesdays From  2:00 AM to 3:15 AM Meeting Type OD = Open Discussion meeting\nSaturdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nMondays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nThursdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting\nWednesdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting Special Interest Topic\nSundays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting Special Interest Meditation\nTuesdays From  5:15 PM to 6:15 PM Meeting Type C = Closed Discussion meeting\nFridays From  5:15 PM to 6:15 PM Meeting Type C = Closed Discussion meeting\nThursdays From  5:15 PM to 6:15 PM Meeting Type C = Closed Discussion meeting\nSundays From  5:15 PM to 6:15 PM Meeting Type S = Step meeting\nWednesdays From  5:15 PM to 6:15 PM Meeting Type C = Closed Discussion meeting\nMondays From  5:15 PM to 6:15 PM Meeting Type C = Closed Discussion meeting Special Interest Living Sober\nWednesdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting\nMondays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting\nThursdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting\nSundays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting\nSundays From  8:00 PM to 9:15 PM Meeting Type BB = Big Book meeting\nWednesdays From  8:00 PM to 9:15 PM Meeting Type C = Closed Discussion meeting Special Interest Men\nSaturdays From  8:00 PM to 9:15 PM Meeting Type O = Open meeting\nTuesdays From  8:00 PM to 9:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women\nMondays From  8:00 PM to 9:15 PM Meeting Type C = Closed Discussion meeting Special Interest Topic\nFridays From  8:00 PM to 9:15 PM Meeting Type S = Step meeting\nThursdays From  8:00 PM to 9:15 PM Meeting Type B = Beginners meeting Special Interest Under Six Months Sober\nSundays From  10:00 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  10:00 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  10:00 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  10:00 PM to 11:15 PM Meeting Type S = Step meeting\nMondays From  10:00 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nFridays From  10:00 PM to 11:15 PM Meeting Type B = Beginners meeting\nThursdays From  10:00 PM to 11:15 PM Meeting Type C = Closed Discussion meeting Special Interest Topic",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "83 Christopher Street (Red Door, Left of Church),",
+        "title": "NEW GROUP - New Group",
+        "hours": "Sundays From  12:30 PM to 1:30 PM Meeting Type O = Open meeting Special Interest Gay, Lesbian and Bisexual\nWednesdays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual\nFridays From  7:30 PM to 8:30 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "hours": "Wednesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nMondays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nSundays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting\nSaturdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nFridays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nThursdays From  7:30 AM to 8:30 AM Meeting Type S = Step meeting\nThursdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting\nWednesdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting\nMondays From  9:00 AM to 10:00 AM Meeting Type OD = Open Discussion meeting\nSundays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting\nFridays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting\nSaturdays From  9:30 AM to 10:00 AM Meeting Type C = Closed Discussion meeting\nFridays From  10:30 AM to 11:30 AM Meeting Type C = Closed Discussion meeting Special Interest Women\nSundays From  11:00 AM to 12:00 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting\nFridays From  12:15 PM to 1:15 PM Meeting Type C = Closed Discussion meeting\nThursdays From  12:15 PM to 1:15 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  12:15 PM to 1:15 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  12:15 PM to 1:15 PM Meeting Type S = Step meeting\nMondays From  12:15 PM to 1:15 PM Meeting Type B = Beginners meeting\nSundays From  1:00 PM to 2:00 PM Meeting Type C = Closed Discussion meeting Special Interest Children Welcome\nSaturdays From  2:30 PM to 3:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  2:30 PM to 3:30 PM Meeting Type OD = Open Discussion meeting\nThursdays From  2:30 PM to 3:30 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  2:30 PM to 3:30 PM Meeting Type C = Closed Discussion meeting\nMondays From  2:30 PM to 3:30 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  2:30 PM to 3:30 PM Meeting Type B = Beginners meeting\nSundays From  3:00 PM to 4:30 PM Meeting Type C = Closed Discussion meeting\nMondays From  4:00 PM to 5:00 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  4:00 PM to 5:00 PM Meeting Type C = Closed Discussion meeting\nThursdays From  4:00 PM to 5:00 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  4:00 PM to 5:00 PM Meeting Type OD = Open Discussion meeting\nTuesdays From  4:00 PM to 5:00 PM Meeting Type C = Closed Discussion meeting\nFridays From  4:00 PM to 6:00 PM Meeting Type C = Closed Discussion meeting\nThursdays From  5:30 PM to 6:30 PM Meeting Type BB = Big Book meeting\nMondays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  6:00 PM to 7:00 PM Meeting Type OD = Open Discussion meeting\nSundays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting\nFridays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  6:00 PM to 7:00 PM Meeting Type S = Step meeting\nTuesdays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting\nThursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nTuesdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting\nMondays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting\nSundays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting\nThursdays From  8:30 PM to 9:30 PM Meeting Type OD = Open Discussion meeting\nFridays From  8:30 PM to 10:30 PM Meeting Type S = Step meeting\nWednesdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  10:15 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nMondays From  10:15 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nThursdays From  10:15 PM to 11:15 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  10:15 PM to 11:15 PM Meeting Type BB = Big Book meeting\nSundays From  10:30 PM to 11:30 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  11:00 PM to 12:00 AM Meeting Type C = Closed Discussion meeting\nFridays From  11:00 PM to 12:00 AM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "PRIMETIME NYC (I) -",
+        "hours": "Thursdays From  6:30 PM to 7:45 PM Meeting Type OD = Open Discussion meeting\nTuesdays From  6:30 PM to 7:45 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "224 Waverly Place, 1st floor event room.,",
+        "title": "RED DOOR - Red Door",
+        "hours": "Sundays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting Special Interest Gay, Lesbian and Bisexual\nThursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual\nFridays From  7:00 PM to 8:00 PM Meeting Type OD = Open Discussion meeting Special Interest Promises\nSundays From  8:30 PM to 9:30 PM Meeting Type OD = Open Discussion meeting Special Interest Gay, Lesbian and Bisexual\nFridays From  8:30 PM to 9:30 PM Meeting Type OD = Open Discussion meeting Special Interest Gay, Lesbian and Bisexual",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "154 Sullivan Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+        "hours": "Mondays From  7:30 AM to 8:30 AM Meeting Type BB = Big Book meeting\nTuesdays From  7:30 AM to 8:30 AM Meeting Type B = Beginners meeting\nWednesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nThursdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting Special Interest Promises\nFridays From  7:30 AM to 8:30 AM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "273 Bowery Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:II) -",
+        "hours": "Sundays From  7:30 AM to 8:30 AM Special Interest Topic\nSaturdays From  7:30 AM to 8:30 AM Special Interest Topic",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "371 6th Avenue,  Basement,",
+        "title": "SHERIDAN SQUARE FOLLIES - Sheridan Square Follies",
+        "hours": "Saturdays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "155 Sullivan Street, Basement,",
+        "title": "SOHO    (:I) -",
+        "hours": "Fridays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting Special Interest Interpreted for the Deaf\nMondays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting\nMondays From  8:30 PM to 9:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "7 East 10th Strert,",
+        "title": "SPIRITUAL WORKSHOP - Spiritual Workshop",
+        "hours": "Sundays From  11:00 AM to 12:15 PM Meeting Type C = Closed Discussion meeting Special Interest Eleventh Step",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "232 West 11th Street, Basement,",
+        "title": "T&A-TOGETHERNESS & ACTION -",
+        "hours": "Mondays From  6:30 PM to 7:30 PM Special Interest Women",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "81 Christopher Street,",
+        "title": "TEN PLUS -",
+        "hours": "Tuesdays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "273 Bowery, Downstairs,",
+        "title": "THE CAPTAIN'S TABLE -",
+        "hours": "Thursdays From  7:00 PM to 8:00 PM Meeting Type BB = Big Book meeting Special Interest Men",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "TOGETHER WE CAN -",
+        "hours": "Tuesdays From  6:45 PM to 8:00 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "WEDNESDAY FOCUS - Wednesday Focus",
+        "hours": "Wednesdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "83 Christopher Street,  Basement,",
+        "title": "WEST VILLAGE WOMEN -",
+        "hours": "Thursdays From  6:30 PM to 7:45 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "WOMEN INTO ACTION - Women Straight Ahead Saturday",
+        "hours": "Saturdays From  4:45 PM to 5:45 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "273 Bowery, Classroom Floor,",
+        "title": "WOMEN TOGETHER      (:II) - Women Together    (:II)",
+        "hours": "Fridays From  6:15 PM to 7:30 PM Meeting Type C = Closed Discussion meeting Special Interest Lesbian",
+        "wheelchairAccess": true
+    }
+]

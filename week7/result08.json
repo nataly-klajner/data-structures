@@ -1,0 +1,158 @@
+[
+    {
+        "address": "109 West 129th Street,  Basement,",
+        "title": "A CHANCE TO LIVE AGAIN - A Chance To Live Again",
+        "hours": "Wednesdays From  6:00 PM to 7:00 PM Meeting Type BB = Big Book meeting\nMondays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "240 West 145th Street,",
+        "title": "AA IT WORKS  II - AA It Works II",
+        "hours": "Wednesdays From  10:00 AM to 11:00 AM Meeting Type B = Beginners meeting\nThursdays From  10:00 AM to 11:00 AM Meeting Type BB = Big Book meeting\nFridays From  10:00 AM to 11:00 AM Meeting Type S = Step meeting\nTuesdays From  10:00 AM to 11:00 AM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "ATTITUDE ADJUSTMENT - Attitude Adjustment",
+        "hours": "Saturdays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "204 West 134th Street, 1st Floor,",
+        "title": "CONVENT -",
+        "hours": "Saturdays From  11:30 AM to 1:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "2044 Adam Clayton Powell Blvd.,",
+        "title": "FELLOWSHIP AT NOON - Fellowship At Noon",
+        "hours": "Mondays From  12:15 PM to 1:15 PM Meeting Type B = Beginners meeting\nWednesdays From  12:15 PM to 1:15 PM Meeting Type S = Step meeting\nFridays From  12:15 PM to 1:15 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "469 West 142nd Street, 1st Floor,",
+        "title": "GRUPO TRASMITELO -",
+        "hours": "Thursdays From  8:00 PM to 9:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "521 W 126th St,",
+        "title": "HARLEM HUMANISTS -",
+        "hours": "Mondays From  12:00 PM to 1:00 PM Meeting Type O = Open meeting Special Interest Agnostic",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "109 West 129th Street, Basement,",
+        "title": "K.I.S.S. - Keep It Simple (Kiss)",
+        "hours": "Sundays From  5:30 PM to 6:30 PM Meeting Type S = Step meeting\nSundays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "LEARNING TO LIVE SOBER - Learning To Live Sober",
+        "hours": "Thursdays From  6:00 PM to 7:00 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "2044 Seventh Avenue,",
+        "title": "LIVING CLEAN AND SOBER ON 121st STREET - Living Clean And Sober On 121st Street",
+        "hours": "Sundays From  6:00 PM to 7:30 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "127 West 127th Street,",
+        "title": "MEDITATION COMES TO HARLEM - Meditation Comes To Harlem",
+        "hours": "Mondays From  4:30 PM to 5:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "310 West 139th Street, Basement,",
+        "title": "MID-HARLEM - Mid-Harlem",
+        "hours": "Mondays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting\nFridays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "409 West 141st Street,  Basement,",
+        "title": "MONDAY NIGHT CHALLENGE - Monday Night Challenge",
+        "hours": "Mondays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "91 Claremont Avenue,  4th Floor, Room 414,",
+        "title": "PRIMARY PURPOSE - Primary Purpose",
+        "hours": "Sundays From  3:00 PM to 4:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "1727 Amsterdam Avenue, 1st Floor in the rear.,",
+        "title": "PROMISES TWO FOR ONE - Promises Two For One",
+        "hours": "Sundays From  9:30 AM to 10:30 AM Meeting Type B = Beginners meeting\nSundays From  11:00 AM to 12:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "REALITY CHECK - Reality Check",
+        "hours": "Saturdays From  5:00 PM to 6:00 PM Meeting Type OD = Open Discussion meeting Special Interest Men",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "91 Claremont Avenue,  @ The Cloisters Club Room,",
+        "title": "RIVERSIDE - Riverside",
+        "hours": "Mondays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "219 West 132nd Street, Cafeteria,",
+        "title": "RIVERTON - Riverton",
+        "hours": "Saturdays From  3:00 PM to 4:00 PM Meeting Type B = Beginners meeting\nSaturdays From  6:00 PM to 7:00 PM Meeting Type O = Open meeting\nTuesdays From  8:00 PM to 9:00 PM",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "211 West 129th Street, Downstairs in the Gym,",
+        "title": "SALEM - Salem",
+        "hours": "Wednesdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "425 West 144th Street, 1st Floor,",
+        "title": "SOBER ADULT MEN - Sober Adult Men",
+        "hours": "Wednesdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting Special Interest Men",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "204 West 134th Street,  Basement,",
+        "title": "ST. NICHOLAS - St. Nicholas",
+        "hours": "Sundays From  4:00 PM to 5:00 PM Meeting Type O = Open meeting\nThursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "506 Lenox Avenue,  Room #3101, 3rd Floor,",
+        "title": "STEPS 3 and 11 - Steps Three-Eleven",
+        "hours": "Sundays From  2:00 PM to 3:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "1727 Amsterdam Avenue, 1st floor in the rear,",
+        "title": "SUGAR HILL -",
+        "hours": "Fridays From  5:30 PM to 6:30 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "1854 Amsterdam Avenue, Basment,",
+        "title": "TUESDAY BIG BOOK STUDY - Tuesday Big Book Study",
+        "hours": "Tuesdays From  6:00 PM to 7:00 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "UPTOWN BIG BOOK WORKSHOP -",
+        "hours": "Saturdays From  9:30 AM to 11:00 AM Meeting Type BB = Big Book meeting Special Interest Big Book Workshop",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "58-66 West 135th Street,",
+        "title": "YOU MAY CARE AFTER - You May Care After",
+        "hours": "Tuesdays From  6:30 PM to 7:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": true
+    }
+]

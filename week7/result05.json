@@ -1,0 +1,170 @@
+[
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "AA LITERATURE - AA Literature",
+        "hours": "Sundays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "30 East 35th Street,",
+        "title": "BREAKFAST CLUB - Breakfast Club",
+        "hours": "Tuesdays From  7:30 AM to 8:30 AM Meeting Type S = Step meeting\nWednesdays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting\nThursdays From  7:30 AM to 8:30 AM Meeting Type O = Open meeting\nFridays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting\nMondays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "350 East 56th Street,",
+        "title": "CARLYLE - Carlyle",
+        "hours": "Mondays From  5:45 PM to 6:45 PM Meeting Type B = Beginners meeting\nWednesdays From  5:45 PM to 6:45 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "hours": "Thursdays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting\nMondays From  7:30 AM to 8:30 AM Meeting Type S = Step meeting\nWednesdays From  7:30 AM to 8:30 AM Meeting Type OD = Open Discussion meeting\nFridays From  7:45 AM to 8:45 AM Meeting Type B = Beginners meeting\nMondays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nMondays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting\nTuesdays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nThursdays From  12:30 PM to 1:30 PM Meeting Type O = Open meeting\nWednesdays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nWednesdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting\nThursdays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nFridays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nFridays From  12:30 PM to 1:30 PM Meeting Type BB = Big Book meeting\nTuesdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "hours": "Sundays From  12:45 PM to 1:45 PM Meeting Type S = Step meeting Special Interest First Step Workshop\nSundays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nSundays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting Special Interest Promises\nMondays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nTuesdays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nTuesdays From  6:15 PM to 7:15 PM Meeting Type S = Step meeting\nWednesdays From  6:15 PM to 7:15 PM Meeting Type BB = Big Book meeting\nWednesdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting\nThursdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting\nFridays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nFridays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "28 East 35th Street,",
+        "title": "EMPIRE STATE - Empire State",
+        "hours": "Mondays From  12:15 PM to 1:15 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  12:15 PM to 1:15 PM Meeting Type S = Step meeting\nFridays From  12:15 PM to 1:15 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "350 East 56th Street ,",
+        "title": "GOTHAM - Gotham",
+        "hours": "Sundays From  5:30 PM to 6:30 PM Meeting Type B = Beginners meeting\nSundays From  5:30 PM to 6:30 PM Meeting Type S = Step meeting\nTuesdays From  5:45 PM to 6:45 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "283 Lexington Avenue, 2nd Floor,",
+        "title": "GRAND CENTRAL - Grand Central",
+        "hours": "Mondays From  5:30 PM to 6:30 PM Meeting Type B = Beginners meeting\nTuesdays From  5:30 PM to 6:30 PM Meeting Type S = Step meeting\nFridays From  5:30 PM to 6:30 PM Meeting Type C = Closed Discussion meeting Special Interest First Step Workshop\nWednesdays From  5:30 PM to 6:30 PM Meeting Type BB = Big Book meeting\nThursdays From  5:30 PM to 6:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "GRUPO BRASIL -",
+        "hours": "Wednesdays From  8:00 PM to 9:00 PM Meeting Type S = Step meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level 2 in The Studio,",
+        "title": "LIFE LINE - Life Line",
+        "hours": "Mondays From  5:30 PM to 6:30 PM Meeting Type B = Beginners meeting\nFridays From  5:30 PM to 6:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "141 East 43rd Street, Basement Hall, elevator is available.,",
+        "title": "LUNCH BUNCH - Lunch Bunch",
+        "hours": "Mondays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nTuesdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting\nThursdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "122 E 37TH St.,",
+        "title": "LUNCHTIME EXPRESS AT THE MUSTARD SEED -",
+        "hours": "Wednesdays From  12:30 PM to 1:15 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "122 East 37th Street,",
+        "title": "MEDITATION SATURDAY NIGHT - Meditation Saturday Night",
+        "hours": "Saturdays From  7:30 PM to 8:30 PM Special Interest Eleventh Step Meditation",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "141 East 43rd Street,",
+        "title": "MONDAY MEN - Monday Men",
+        "hours": "Mondays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nThursdays From  6:15 PM to 7:15 PM Meeting Type S = Step meeting\nMondays From  7:15 PM to 8:15 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "209 Madison Avenue, 2nd Floor,",
+        "title": "MURRAY HILL - Murray Hill",
+        "hours": "Mondays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "hours": "Tuesdays From  6:15 AM to 7:15 AM Meeting Type BB = Big Book meeting\nThursdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nWednesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nThursdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nWednesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nMondays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nSundays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nMondays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nFridays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nThursdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting\nSaturdays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting\nSaturdays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting\nThursdays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting\nSundays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting\nThursdays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting Special Interest Daily Reflections\nWednesdays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting Special Interest Daily Reflections\nTuesdays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting Special Interest Daily Reflections\nMondays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting Special Interest Daily Reflections\nSundays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting\nSundays From  9:30 AM to 10:30 AM Meeting Type S = Step meeting\nSaturdays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting\nFridays From  9:30 AM to 10:30 AM Meeting Type C = Closed Discussion meeting Special Interest Daily Reflections\nSaturdays From  10:00 AM to 11:00 AM Meeting Type BB = Big Book meeting\nSundays From  11:00 AM to 12:00 PM Meeting Type BB = Big Book meeting\nFridays From  11:30 AM to 12:30 PM Meeting Type C = Closed Discussion meeting\nThursdays From  11:30 AM to 12:30 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  11:30 AM to 12:30 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  11:30 AM to 12:30 PM Meeting Type C = Closed Discussion meeting\nMondays From  11:30 AM to 12:30 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  12:45 PM to 1:45 PM Meeting Type C = Closed Discussion meeting\nFridays From  12:45 PM to 1:45 PM Meeting Type C = Closed Discussion meeting\nThursdays From  12:45 PM to 1:45 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  12:45 PM to 1:45 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  12:45 PM to 1:45 PM Meeting Type C = Closed Discussion meeting\nMondays From  12:45 PM to 1:45 PM Meeting Type C = Closed Discussion meeting\nSundays From  12:45 PM to 1:45 PM Meeting Type S = Step meeting Special Interest First Step Workshop\nSundays From  3:00 PM to 4:00 PM Meeting Type C = Closed Discussion meeting Special Interest Women\nFridays From  3:15 PM to 4:15 PM Meeting Type C = Closed Discussion meeting\nThursdays From  3:15 PM to 4:15 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  3:15 PM to 4:15 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  3:15 PM to 4:15 PM Meeting Type C = Closed Discussion meeting\nMondays From  3:15 PM to 4:15 PM Meeting Type C = Closed Discussion meeting\nSaturdays From  5:30 PM to 6:30 PM Meeting Type B = Beginners meeting\nSundays From  6:15 PM to 7:00 PM Meeting Type B = Beginners meeting\nFridays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nThursdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nWednesdays From  6:15 PM to 7:15 PM Meeting Type BB = Big Book meeting\nMondays From  6:15 PM to 7:15 PM Meeting Type B = Beginners meeting\nTuesdays From  6:15 PM to 7:15 PM Meeting Type S = Step meeting\nFridays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting\nSaturdays From  7:30 PM to 8:30 PM Special Interest Meditation\nTuesdays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting\nSundays From  8:00 PM to 9:00 PM Meeting Type B = Beginners meeting\nThursdays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting Special Interest Men\nWednesdays From  8:00 PM to 9:00 PM Meeting Type S = Step meeting\nMondays From  8:00 PM to 9:00 PM Meeting Type B = Beginners meeting Special Interest Women\nFridays From  10:00 PM to 11:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level,",
+        "title": "REBELLION DOGS -",
+        "hours": "Tuesdays From  7:30 AM to 8:30 AM Meeting Type C = Closed Discussion meeting Special Interest Living Sober",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "240 East 31st Street,",
+        "title": "SATURDAY EAST - Saturday East",
+        "hours": "Saturdays From  4:00 PM to 5:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "114 East 35th Street, 2nd Floor,",
+        "title": "SATURDAY STEP - Saturday Step",
+        "hours": "Saturdays From  10:00 AM to 11:00 AM Meeting Type S = Step meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "230 East 60th Street (Basement) ,",
+        "title": "SERENITY EAST - Serenity East",
+        "hours": "Tuesdays From  7:30 AM to 8:30 AM Meeting Type BB = Big Book meeting\nFridays From  6:30 PM to 7:30 PM Meeting Type S = Step meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "244 East 58th Street,",
+        "title": "SERENITY EAST (:I) -",
+        "hours": "Tuesdays From  5:30 PM to 6:30 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level,",
+        "title": "SILKWORTH WOMEN'S - Silkworth Women's",
+        "hours": "Thursdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "325 Park Avenue,",
+        "title": "ST. BART'S TWELVE-THIRTIES - St. Bart's Twelve-Thirties",
+        "hours": "Fridays From  12:30 PM to 1:30 PM Meeting Type BB = Big Book meeting\nMondays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nWednesdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "236 EAST 31st STREET ,basement,",
+        "title": "STRAIGHT 12 -",
+        "hours": "Saturdays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting Special Interest Promises\nSaturdays From  7:15 PM to 8:15 PM Meeting Type B = Beginners meeting\nSaturdays From  8:30 PM to 9:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "308 East 55th Street,",
+        "title": "TEMPLETON - Templeton",
+        "hours": "Wednesdays From  6:15 PM to 7:15 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "244 East 58th Street,",
+        "title": "TRAFALGAR - Trafalgar",
+        "hours": "Tuesdays From  6:45 PM to 7:45 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "244 East 58th Street, Lower Level,",
+        "title": "TUDOR - Tudor",
+        "hours": "Thursdays From  6:15 PM to 7:15 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "109 East 50th Street,",
+        "title": "WOMEN'S ELEVENTH STEP - Women's Eleventh Step",
+        "hours": "Wednesdays From  5:45 PM to 7:15 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": true
+    }
+]

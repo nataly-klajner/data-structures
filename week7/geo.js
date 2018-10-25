@@ -5,7 +5,7 @@ var fs = require('fs');
 var apiKey = process.env.TAMU_KEY; 
 
 var meetingsData = [];
-var meetings = require("../week7/result04.json");
+var meetings = require("../week7/result08.json");
 
 // eachSeries in the async module iterates over an array and operates on each item in the array in series
 async.eachSeries(
@@ -43,7 +43,7 @@ async.eachSeries(
     }, 
     
     function() {
-        fs.writeFileSync('result-with-geo04.json', JSON.stringify(meetingsData));
+        fs.writeFileSync('result-with-geo08.json', JSON.stringify(meetingsData));
         console.log('*** *** *** *** ***');
         console.log('Number of meetings in this zone: ');
         console.log(meetingsData.length);
