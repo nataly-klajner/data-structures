@@ -1,0 +1,46 @@
+[
+    {
+        "address": "35 East 125 Street, 1st Floor Conference Room,",
+        "title": "125 - TWO FOR ONE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "4:15 PM",
+            "endTime": "5:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "223 East 117th Street, 1st Floor Dining Room,",
+        "title": "EAST HARLEM - East Harlem",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "2126 2nd Avenue, 1st Floor,",
+        "title": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:00 PM",
+            "endTime": "6:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "22 East 119th Street,  1st Floor Cafeteria,",
+        "title": "HARLEM 1 PM RECOVERY - Harlem 1 PM Recovery",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "1:00 PM",
+            "endTime": "2:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    }
+]

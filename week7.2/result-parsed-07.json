@@ -1,0 +1,585 @@
+[
+    {
+        "address": "351 East 74th Street,  2nd Floor,",
+        "title": "A BAFFLED LOT -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign.,",
+        "title": "A.A. TRADITIONS AND HISTORY -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type T = Tradition meeting"
+        }
+    },
+    {
+        "address": "184 East 76th Street, Basement,",
+        "title": "ACTIVE - Active",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor,",
+        "title": "AFTERNOON AWAKENING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "1393 York Avenue,",
+        "title": "ATLANTIC ELEVENTH STEP MEDITATION -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "520 Park Avenue,",
+        "title": "ATLANTIC GROUP (:I) - Atlantic    (:I)",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "337 E. 74th St.,",
+        "title": "ATLANTIC GROUP (:II) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "1157 Lexington Avenue,",
+        "title": "ATLANTIC GROUP (:III) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "420 East 76th Street,",
+        "title": "BREAKING THROUGH - Breaking Through",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "230 East 90th Street, Downstairs,",
+        "title": "CAME TO BELIEVE - Came To Believe",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "3:30 PM",
+            "endTime": "4:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "65 East 89th Street, Basement,",
+        "title": "CARNEGIE HILL - Carnegie Hill",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "865 Madison Avenue, Basement,",
+        "title": "CENTRAL - Central I",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:00 PM",
+            "endTime": "5:45 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "1296 Lexington Avenue, Basement,",
+        "title": "CHAPTER FIVE - Chapter Five     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:15 AM",
+            "endTime": "8:15 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, Mazaryk Room,",
+        "title": "ELEVENTH STEP AT JAN HUS - Eleventh Step At Jan Hus",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "1157 Lexington Avenue, 1st Floor,",
+        "title": "FEARLESS -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, Mazaryk Room,",
+        "title": "FRIDAY CENTRAL -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor,",
+        "title": "FRIDAY NIGHT GAY MEN & WOMEN - Friday Night Gay Men & Women",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type S = Step meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "65 East 89th Street,",
+        "title": "FRIDAY NIGHT MEN'S STEP - Friday Night Men's Step",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type S = Step meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "65 East 89th Street - Rectory basement,",
+        "title": "HUMANISTS TOO -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": "Mondays From  6:15 PM to 7:15 PM Special Interest Agnostic"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor,",
+        "title": "I'M ALL IN -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "135 East 96th Street,",
+        "title": "INTO ACTION MANHATTAN - Into Action Manhattan",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting Special Interest Big Book Workshop"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor Kitchen,",
+        "title": "KITCHEN TABLE MEETING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "2 East 90th Street,",
+        "title": "LENOX HILL - Lenox Hill",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "1157 Lexington Avenue,",
+        "title": "LEX 80 STEP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting Special Interest Twelve Steps"
+        }
+    },
+    {
+        "address": "420 East 76th Street,",
+        "title": "LIVE AND LET LIVE - Live And Let Live",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor,",
+        "title": "MADISON 73 - Madison 73",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor Chapel Room,",
+        "title": "MEDITATION (EXPECT MIRACLES) - Meditation (Expect Miracles)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "1285 Madison Avenue,",
+        "title": "MEN'S NYC BIG BOOK STEP STUDY -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "48 East 84th Street,",
+        "title": "METROPOLITAN - Metropolitan",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "3:15 PM",
+            "endTime": "4:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "408 East 82nd Street,  Rectory,",
+        "title": "MONDAY EAST TOPIC - Monday East Topic",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor Front Room,",
+        "title": "MONDAY WOMEN -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "351 East 74th Street,  2nd Floor - Front Room,",
+        "title": "MORNING REFLECTIONS -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Daily Reflections"
+        }
+    },
+    {
+        "address": "125 East 85th Street, Ramaz School Entrance,",
+        "title": "NEW CHOICES - New Choices",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street,  2nd Floor, Library Room,",
+        "title": "OPEN BOOK -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor Kitchen,",
+        "title": "OUR PRIMARY PURPOSE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type S = Step meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "865 Madison Avenue, 3rd Floor,",
+        "title": "PARK BENCH   (:II) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "62 East 92nd Street, Basement,",
+        "title": "PARK MADISON - Park Madison",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:45 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor Front Room,",
+        "title": "PERSEVERANCE - Perseverance",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "420 East 87th Street, Basement,",
+        "title": "RECOVERY ROOM - Recovery Room",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "593 Park Avenue,  5th Floor Library,",
+        "title": "RENEWAL EAST -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "65 East 89th Street, Ring Red Buzzer, Chelsea Room,",
+        "title": "RENEWAL NORTH -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "865 Madison Avenue,  Basement,",
+        "title": "RHINELANDER - Rhinelander",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "Church of the Good Shepard, 543 Main St., Basement 10044,",
+        "title": "ROOSEVELT ISLAND SERENITY -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "413 East 79th Street,  Basement,",
+        "title": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop    (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:00 AM",
+            "endTime": "7:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street, Sanctuary,",
+        "title": "SOBER WOMEN - Sober Women",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "9:15 AM",
+            "endTime": "10:15 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "310 East 67th Street, Auditorium,",
+        "title": "STEP BY STEP - Step By Step",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "331 E 70th St,",
+        "title": "SUNDAY ON 70TH - Sunday On 70th",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "411 East 68th Street,",
+        "title": "SUTTON - Sutton",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "2 East 90th Street, Basement,",
+        "title": "THREE TWELVES - Three Twelves",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "341 East 87th Street,  Choir Room (Ring Bell),",
+        "title": "TRINITY - Trinity",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street,  2nd Floor Museum Room,",
+        "title": "WE HUMANISTS - We Humanists",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Agnostic"
+        }
+    },
+    {
+        "address": "351 East 74th Street, 2nd Floor Kitchen,",
+        "title": "WEDNESDAY EAST ON THURSDAY - Wednesday East",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "351 East 74th Street,  2nd Floor,  Masaryk Room,",
+        "title": "YORKVILLE-BUTTERFIELD - Yorkville",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    }
+]

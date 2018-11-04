@@ -1,0 +1,695 @@
+[
+    {
+        "address": "207 West 96th Street, Basement,",
+        "title": "A NEW DAY - A New Day",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "3:00 PM",
+            "endTime": "4:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "120 West 69th Street, Basement,",
+        "title": "A VISION FOR YOU - A Vision For You",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:45 PM",
+            "endTime": "8:45 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "422 West 57th Street,",
+        "title": "AFTER EIGHT (:i) - After Eight",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "164 West 74th Street, 1st floor,",
+        "title": "AFTER EIGHT (:ii) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest AA Literature"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Little Room Basement,",
+        "title": "ALTERED ATTITUDES - Altered Attitudes",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "9:30 PM",
+            "endTime": "10:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "144 West 90th Street, Basement,",
+        "title": "AMSTERDAM - Amsterdam",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "1:00 PM",
+            "endTime": "2:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "141 West 73rd Street,",
+        "title": "ANSONIA - Ansonia",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "4 West 76th Street. Meeting in the gym.,",
+        "title": "ATLANTIC WEST STEP & TRADITION - Atlantic West Step & Tradition",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "221 West 107th Street, Basement,",
+        "title": "BLOOMINGDALE - Bloomingdale",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "BROADWAY AT 96TH - Broadway At 96th",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "215 West 82nd Street,",
+        "title": "CADILLACS FOR EVERYONE - Cadillacs For Everyone",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "601 West 114th Street, (2nd Red Door),",
+        "title": "CAMPUS CHEER - Campus Cheer",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "Central Park West & 76th Street - basement gymnasium,",
+        "title": "CENTRAL PARK WEST - Central Park West",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:15 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "5 West 63rd Street, Downstairs in large meeting room.,",
+        "title": "CHELSEA RIVERSIDE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 PM",
+            "endTime": "8:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "4 West 76th Street, (In the gym),",
+        "title": "CHOCK FULL OF SOBRIETY -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "160 Central Park West, Gym basement.,",
+        "title": "CLASSEN HALL     (:II) - Classen Hall    (:II)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "152 West 66th Street, Basement Level Chapel,",
+        "title": "CLASSEN HALL STEP MEETING  ( :I ) - Classen Hall",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:15 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type S = Step meeting Special Interest Twelve Steps"
+        }
+    },
+    {
+        "address": "3 West 95th Street, Lower Level Auditorium,",
+        "title": "COLUMBUS AT FIVE - Columbus At Five",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "5:00 PM",
+            "endTime": "6:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "251 West 80th Street,",
+        "title": "EIGHTIETH STREET BEGINNERS -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "111 West 71st Street,",
+        "title": "FAST BREAK - Fast Break",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 AM",
+            "endTime": "8:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "5 West 63rd Street, 1st Floor,",
+        "title": "FAST BREAK WEEKEND -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "8:00 AM",
+            "endTime": "9:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "5 West 63rd Street,",
+        "title": "FIRESIDE  (:II)  WEEKEND MEETINGS ONLY -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "10:30 AM",
+            "endTime": "11:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "FIRST THINGS FIRST - First Things First",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:00 AM",
+            "endTime": "7:00 AM",
+            "meetingType": " Type T = Tradition meeting"
+        }
+    },
+    {
+        "address": "26 West 84th Street,",
+        "title": "FRIDAY NIGHT STEP -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "200 West 97th Street, Basement,",
+        "title": "GRUPO CAMINO REAL - Grupo Camino Real",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "4:30 PM",
+            "endTime": "5:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "218 West 108th Street, Main Floor,",
+        "title": "GRUPO DULCES 24 - Grupo Dulces 24",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "125 West 104th Street, 1st Floor,",
+        "title": "GRUPO LUZ DIVINA -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "141 West 73rd Street,",
+        "title": "HARGRAVE - Hargrave House",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "236 West 73rd Street,  5th Floor,",
+        "title": "LAMBDA WEST - Lambda West",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "165 West 105th Street, Basement,",
+        "title": "MANHATTAN VALLEY - Manhattan Valley",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "207 West 96th Street,",
+        "title": "METROPOLIS MEN'S MEETING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:45 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "MID-DAY CHEER - Mid-Day Cheer",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "1:00 PM",
+            "endTime": "2:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "2504 Broadway,  Basement,",
+        "title": "MORNINGSIDE - Morningside",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "405 West 114th Street, Merton Room,",
+        "title": "MORNINGSIDE HEIGHTS BEGINNERS -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "368 West End Ave, 1st floor,",
+        "title": "NEVER TOO LATE - Never Too Late",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "225 West 99th Street, 1st Floor,",
+        "title": "NIGHT LIGHT - Night Light",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "251 West 100th Street,",
+        "title": "NIGHT LIGHT BEGINNERS - Night Light Beginners",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "NINETY-SIXTH STREET WORKSHOP - Ninety-Sixth Street Workshop",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "26 West 84th Street,",
+        "title": "OXFORD  (:I) - Oxford",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "s",
+            "startTime": "12:00 AM",
+            "endTime": "12:00 AM\nMondays",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "5 West 63rd Street, Basement, Room D,",
+        "title": "PROMISES PROMISES - Promises Promises",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "552 West End Avenue, Basement,",
+        "title": "RENEWAL WEST - Renewal West",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "164 West 74 Street, 1st Floor, (ask at Front Desk),",
+        "title": "ROUTES -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "340 West 85th Street, Basement,",
+        "title": "RUDE AWAKENING - Rude Awakening",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "368 West End Avenue, 1st Floor,",
+        "title": "SMITHEREENS - Smithereens",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "SOBER STEPPING - Sober Stepping",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "5 West 63rd Street,",
+        "title": "SUNDAY MEN'S TOPIC - Sunday Men's Topic",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:30 AM",
+            "endTime": "11:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "131 West 72nd Street, 3rd Floor, Room #2F,",
+        "title": "SUNDAY WEST - Sunday West",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "TURN IT OVER - Turn It Over",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "3:30 PM",
+            "endTime": "4:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "152 West 71st Street, Ring Bell,",
+        "title": "WAY OF LIFE - Way Of Life",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "30 West 68th Street,  Check security desk for Room #,",
+        "title": "WE AGNOSTICS OF NYC - We Agnostics Of NYC",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Agnostic"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "WE ARE NOT DOCTORS (WESTSIDE) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "4:45 PM",
+            "endTime": "5:45 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Medication"
+        }
+    },
+    {
+        "address": "263 West 86th Street,  1st Floor,",
+        "title": "WEST END - West End",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "306 West 102nd Street, 2nd Floor,",
+        "title": "WESTSIDE 11th STEP MEDITATION WORKSHOP - Westside 11th Step Meditation Workshop",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "WESTSIDE STEP - Westside Step",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "26 West 84th Street, Stanford Room (blue door),",
+        "title": "WESTSIDE YOUNG PEOPLE - Westside Young People",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Young People"
+        }
+    },
+    {
+        "address": "595 Columbus Avenue,",
+        "title": "WITHOUT A PRAYER -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "5:00 PM",
+            "endTime": "6:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Agnostic"
+        }
+    },
+    {
+        "address": "306 West 102nd Street, 2nd Floor,",
+        "title": "WOMEN LIVING SOBER - Women Living Sober",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "213 West 82nd Street,",
+        "title": "WOMEN WEST AA - Women West AA",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "WOMEN'S BEGINNING LITERATURE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "152 west 71st street,",
+        "title": "WOMEN'S ELEVENTH STEP MEETING -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "WOMEN'S TELL IT LIKE IT IS - Women's Tell It Like It Is",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:00 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "160 Central Park West, Downstairs,",
+        "title": "WOMEN'S WESTSIDE TOPIC - Women's Westside Topic",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "WRITING SOBER - Writing Sober",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Special Purpose Groups"
+        }
+    }
+]
