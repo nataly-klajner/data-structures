@@ -2,7 +2,7 @@ var fs = require('fs');
 var cheerio = require('cheerio');
 var async = require('async');
  
-var html = fs.readFileSync('../data/zone10.txt');
+var html = fs.readFileSync('../data/zone7.txt');
 
 var $ = cheerio.load(html);
 
@@ -24,22 +24,31 @@ var selectionOfTheTR = $('tr[style="margin-bottom:10px"]');
     var secondTDElementText = secondTDElement.text();
     
     var secondTDElementLinesArray = secondTDElementText.split("\n");
+    console.log(secondTDElementLinesArray);
+    
+     secondTDElementLinesArray = secondTDElementLinesArray.map(function (string) {
+         return string.trim();
+         });
+        
+     secondTDElementLinesArray = secondTDElementLinesArray.filter(function (string) {
+        return string.length > 0;
+        });
+        
+        //console.log(secondTDElementLinesArray)
+        
+    
+ 
+   
         
     for (var i = 0; i<secondTDElementLinesArray.length; i++) {
         
-        secondTDElementLinesArray = secondTDElementLinesArray.map(function (string) {
-        return string.trim();
-        });
-        
-        secondTDElementLinesArray = secondTDElementLinesArray.filter(function (string) {
-        return string.length > 0;
-        });
     
          var day = secondTDElementLinesArray.join("\n").split(" ")[0];
+         //console.log(day)
              
     
         var startTime = secondTDElementLinesArray.join("\n").split(" ")[3] + " " + secondTDElementLinesArray.join("\n").split(" ")[4];
-   
+        
           
         var endTime = secondTDElementLinesArray.join("\n").split(" ")[6] + " " + secondTDElementLinesArray.join("\n").split(" ")[7];
     
@@ -73,4 +82,4 @@ var selectionOfTheTR = $('tr[style="margin-bottom:10px"]');
     };
 }
 var result = selectionOfTheTR.map(getAddressFromTD).get();
-fs.writeFileSync('./result-parsed-10.json', JSON.stringify(result, null, 4));
+//fs.writeFileSync('./result-parsed-10.json', JSON.stringify(result, null, 4));
