@@ -1,0 +1,1520 @@
+[
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "AA LITERATURE - AA Literature",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "30 East 35th Street,",
+        "title": "BREAKFAST CLUB - Breakfast Club",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "30 East 35th Street,",
+        "title": "BREAKFAST CLUB - Breakfast Club",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "30 East 35th Street,",
+        "title": "BREAKFAST CLUB - Breakfast Club",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "30 East 35th Street,",
+        "title": "BREAKFAST CLUB - Breakfast Club",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "30 East 35th Street,",
+        "title": "BREAKFAST CLUB - Breakfast Club",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "350 East 56th Street,",
+        "title": "CARLYLE - Carlyle",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "5:45 PM",
+            "endTime": "6:45 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "350 East 56th Street,",
+        "title": "CARLYLE - Carlyle",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "5:45 PM",
+            "endTime": "6:45 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:45 AM",
+            "endTime": "8:45 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level Music Rooms,",
+        "title": "CITY GROUP - Citikorp",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type S = Step meeting Special Interest First Step Workshop"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "COURAGE TO CHANGE - Courage To Change",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "28 East 35th Street,",
+        "title": "EMPIRE STATE - Empire State",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "28 East 35th Street,",
+        "title": "EMPIRE STATE - Empire State",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "28 East 35th Street,",
+        "title": "EMPIRE STATE - Empire State",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "350 East 56th Street ,",
+        "title": "GOTHAM - Gotham",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "350 East 56th Street ,",
+        "title": "GOTHAM - Gotham",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "350 East 56th Street ,",
+        "title": "GOTHAM - Gotham",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "5:45 PM",
+            "endTime": "6:45 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "283 Lexington Avenue, 2nd Floor,",
+        "title": "GRAND CENTRAL - Grand Central",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "283 Lexington Avenue, 2nd Floor,",
+        "title": "GRAND CENTRAL - Grand Central",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "283 Lexington Avenue, 2nd Floor,",
+        "title": "GRAND CENTRAL - Grand Central",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest First Step Workshop"
+        }
+    },
+    {
+        "address": "283 Lexington Avenue, 2nd Floor,",
+        "title": "GRAND CENTRAL - Grand Central",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "283 Lexington Avenue, 2nd Floor,",
+        "title": "GRAND CENTRAL - Grand Central",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "GRUPO BRASIL -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street, Basement,",
+        "title": "GRUPO BRASIL -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level 2 in The Studio,",
+        "title": "LIFE LINE - Life Line",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level 2 in The Studio,",
+        "title": "LIFE LINE - Life Line",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street, Basement Hall, elevator is available.,",
+        "title": "LUNCH BUNCH - Lunch Bunch",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street, Basement Hall, elevator is available.,",
+        "title": "LUNCH BUNCH - Lunch Bunch",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street, Basement Hall, elevator is available.,",
+        "title": "LUNCH BUNCH - Lunch Bunch",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street, Basement Hall, elevator is available.,",
+        "title": "LUNCH BUNCH - Lunch Bunch",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street, Basement Hall, elevator is available.,",
+        "title": "LUNCH BUNCH - Lunch Bunch",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 E 37TH St.,",
+        "title": "LUNCHTIME EXPRESS AT THE MUSTARD SEED -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,",
+        "title": "MEDITATION SATURDAY NIGHT - Meditation Saturday Night",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": "Saturdays From  7:30 PM to 8:30 PM Special Interest Eleventh Step Meditation"
+        }
+    },
+    {
+        "address": "141 East 43rd Street,",
+        "title": "MONDAY MEN - Monday Men",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street,",
+        "title": "MONDAY MEN - Monday Men",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "141 East 43rd Street,",
+        "title": "MONDAY MEN - Monday Men",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "209 Madison Avenue, 2nd Floor,",
+        "title": "MURRAY HILL - Murray Hill",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 AM",
+            "endTime": "7:15 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "8:00 AM",
+            "endTime": "9:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "8:00 AM",
+            "endTime": "9:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 AM",
+            "endTime": "9:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "8:15 AM",
+            "endTime": "9:15 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Daily Reflections"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Daily Reflections"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Daily Reflections"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Daily Reflections"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Daily Reflections"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "11:30 AM",
+            "endTime": "12:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "11:30 AM",
+            "endTime": "12:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "11:30 AM",
+            "endTime": "12:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "11:30 AM",
+            "endTime": "12:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "11:30 AM",
+            "endTime": "12:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:45 PM",
+            "endTime": "1:45 PM",
+            "meetingType": " Type S = Step meeting Special Interest First Step Workshop"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "3:00 PM",
+            "endTime": "4:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "3:15 PM",
+            "endTime": "4:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "3:15 PM",
+            "endTime": "4:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "3:15 PM",
+            "endTime": "4:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "3:15 PM",
+            "endTime": "4:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "3:15 PM",
+            "endTime": "4:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:15 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": "Saturdays From  7:30 PM to 8:30 PM Special Interest Meditation"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "122 East 37th Street,  Basement,",
+        "title": "MUSTARD SEED - Mustard Seed     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level,",
+        "title": "REBELLION DOGS -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "240 East 31st Street,",
+        "title": "SATURDAY EAST - Saturday East",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "114 East 35th Street, 2nd Floor,",
+        "title": "SATURDAY STEP - Saturday Step",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "230 East 60th Street (Basement) ,",
+        "title": "SERENITY EAST - Serenity East",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "230 East 60th Street (Basement) ,",
+        "title": "SERENITY EAST - Serenity East",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "230 East 60th Street (Basement) ,",
+        "title": "SERENITY EAST - Serenity East",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "244 East 58th Street,",
+        "title": "SERENITY EAST (:I) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "619 Lexington Avenue, Lower Level,",
+        "title": "SILKWORTH WOMEN'S - Silkworth Women's",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "325 Park Avenue,",
+        "title": "ST. BART'S TWELVE-THIRTIES - St. Bart's Twelve-Thirties",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "325 Park Avenue,",
+        "title": "ST. BART'S TWELVE-THIRTIES - St. Bart's Twelve-Thirties",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "325 Park Avenue,",
+        "title": "ST. BART'S TWELVE-THIRTIES - St. Bart's Twelve-Thirties",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "236 EAST 31st STREET ,basement,",
+        "title": "STRAIGHT 12 -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "236 EAST 31st STREET ,basement,",
+        "title": "STRAIGHT 12 -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "236 EAST 31st STREET ,basement,",
+        "title": "STRAIGHT 12 -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "308 East 55th Street,",
+        "title": "TEMPLETON - Templeton",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "244 East 58th Street,",
+        "title": "TRAFALGAR - Trafalgar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:45 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "244 East 58th Street, Lower Level,",
+        "title": "TUDOR - Tudor",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "109 East 50th Street,",
+        "title": "WOMEN'S ELEVENTH STEP - Women's Eleventh Step",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "5:45 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    }
+]

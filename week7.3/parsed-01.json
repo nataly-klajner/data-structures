@@ -1,0 +1,629 @@
+[
+    {
+        "address": "20 Cardinal Hayes Place, Rectory Basement,",
+        "title": "A DESIGN FOR LIVING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 AM",
+            "endTime": "8:00 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Rectory Basement,",
+        "title": "A DESIGN FOR LIVING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:00 AM",
+            "endTime": "8:00 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter through driveway behind Church.,",
+        "title": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter through driveway behind Church.,",
+        "title": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter through driveway behind Church.,",
+        "title": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter through driveway behind Church.,",
+        "title": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "29 Mott Street, Basement,",
+        "title": "CHINATOWN - Chinatown",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street, 1st Floor Library,",
+        "title": "DOWNTOWN -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "44 John Street,",
+        "title": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "44 John Street,",
+        "title": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "44 John Street,",
+        "title": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "44 John Street,",
+        "title": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "1:30 PM",
+            "endTime": "2:30 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "44 John Street,",
+        "title": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "1:30 PM",
+            "endTime": "2:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:30 AM",
+            "endTime": "7:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 AM",
+            "endTime": "7:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 AM",
+            "endTime": "7:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 AM",
+            "endTime": "7:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 AM",
+            "endTime": "7:30 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:45 AM",
+            "endTime": "8:45 AM",
+            "meetingType": " Format"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:45 AM",
+            "endTime": "8:45 AM",
+            "meetingType": " Format"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+        "title": "FRIDAY DOWNTOWN - Friday Downtown",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "22 Barclay Street,",
+        "title": "GATEWAY - Gateway",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+        "title": "PASSING THE BAR - Passing The Bar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "1:15 PM",
+            "endTime": "2:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+        "title": "PASSING THE BAR - Passing The Bar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "1:15 PM",
+            "endTime": "2:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+        "title": "PASSING THE BAR - Passing The Bar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "1:15 PM",
+            "endTime": "2:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+        "title": "PASSING THE BAR - Passing The Bar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "1:15 PM",
+            "endTime": "2:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+        "title": "PASSING THE BAR - Passing The Bar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "1:15 PM",
+            "endTime": "2:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "22 Barclay Street (Basement),",
+        "title": "S.O.B.E.R. -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:45 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "SANE AND SOBER -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Mental Health Issues in Sobriety"
+        }
+    },
+    {
+        "address": "125 Barclay Street,",
+        "title": "SATURDAY AFTERNOON DISCUSSION - Saturday Afternoon Discussion",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "2:00 PM",
+            "endTime": "3:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street, Conference Room #1,",
+        "title": "SEAMEN'S GROUP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "SEAPORT - Seaport",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "SEAPORT - Seaport",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "SEAPORT - Seaport",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting Special Interest Meditation"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "SEAPORT - Seaport",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "SEAPORT - Seaport",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place,",
+        "title": "TOWER -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "TRIANGLE GROUP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Meditation"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "TRIANGLE GROUP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "TRIANGLE GROUP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "TRIANGLE GROUP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "TRIBECA GROUP @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "TRIBECA GROUP @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "TRIBECA GROUP @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "49 Fulton Street,",
+        "title": "TRIBECA GROUP @ ST. MARGARET'S HOUSE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "22 Barclay Street- basement chapel,",
+        "title": "TRIBECA GROUP @ ST. PETER'S CHURCH - Tribeca",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:45 PM",
+            "endTime": "8:45 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "22 Barclay Street- basement chapel,",
+        "title": "TRIBECA GROUP @ ST. PETER'S CHURCH - Tribeca",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "20 Cardinal Hayes Place,",
+        "title": "WOMEN'S DOWNTOWN AA STEP MEETING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "1:15 PM",
+            "endTime": "2:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "YOUNG PEOPLE'S DIVERSITY -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "YOUNG PEOPLE'S STEP -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:45 PM",
+            "endTime": "8:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Young People"
+        }
+    },
+    {
+        "address": "283 W. Broadway,",
+        "title": "YOUTH ENJOYING SOBRIETY (Y.E.S.) - Youth Enjoying Sobriety (Yes)",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Young People"
+        }
+    }
+]

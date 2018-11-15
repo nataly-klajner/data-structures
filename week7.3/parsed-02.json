@@ -1,0 +1,1696 @@
+[
+    {
+        "address": "273 Bowery, Downstairs,",
+        "title": "A.A. ON THE BOWERY - AA On The Bowery",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "AFTER FIVE - After Five",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "283 West Broadway,",
+        "title": "AFTERNOON DELIGHT -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "232 W. 11th Street,",
+        "title": "ARTISTS IN RECOVERY (A.R.T.) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:30 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "BAGELS AND BIG BOOK -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:30 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "253 Center Street, 3rd Floor,",
+        "title": "CENTER MEETING -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": ""
+        }
+    },
+    {
+        "address": "273 Bowery,",
+        "title": "EAST VILLAGE SOBER AGNOSTICS - Sober Agnostics",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:45 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Agnostic"
+        }
+    },
+    {
+        "address": "487 Hudson Street, Basement,",
+        "title": "GREENWICH VILLAGE - Greenwich Village",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "487 Hudson Street, Basement,",
+        "title": "GREENWICH VILLAGE - Greenwich Village",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "487 Hudson Street, Basement,",
+        "title": "GREENWICH VILLAGE - Greenwich Village",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:15 PM",
+            "endTime": "8:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "487 Hudson Street, Basement,",
+        "title": "GREENWICH VILLAGE - Greenwich Village",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "487 Hudson Street, Basement,",
+        "title": "GREENWICH VILLAGE - Greenwich Village",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type S = Step meeting Special Interest Steps 1-2-3"
+        }
+    },
+    {
+        "address": "292 Henry Street, Basement,",
+        "title": "GRUPO CENTRAL - Grupo Central",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "3:00 PM",
+            "endTime": "4:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "292 Henry Street, Basement,",
+        "title": "GRUPO CENTRAL - Grupo Central",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "292 Henry Street, Basement,",
+        "title": "GRUPO CENTRAL - Grupo Central",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "HAPPY, JOYOUS AND FREE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Gay Men"
+        }
+    },
+    {
+        "address": "141 Henry Street, 1st Floor,",
+        "title": "LOWER EAST SIDE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:00 AM",
+            "endTime": "1:15 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "2:00 AM",
+            "endTime": "3:15 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Meditation"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "5:15 PM",
+            "endTime": "6:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:15 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Under Six Months Sober"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "MIDNITE -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "10:00 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Topic"
+        }
+    },
+    {
+        "address": "83 Christopher Street (Red Door, Left of Church),",
+        "title": "NEW GROUP - New Group",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type O = Open meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "83 Christopher Street (Red Door, Left of Church),",
+        "title": "NEW GROUP - New Group",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "83 Christopher Street (Red Door, Left of Church),",
+        "title": "NEW GROUP - New Group",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "9:30 AM",
+            "endTime": "10:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "10:30 AM",
+            "endTime": "11:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "1:00 PM",
+            "endTime": "2:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Children Welcome"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "3:00 PM",
+            "endTime": "4:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:30 PM",
+            "endTime": "10:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "10:15 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "10:15 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "10:15 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "10:15 PM",
+            "endTime": "11:15 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:30 PM",
+            "endTime": "11:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "11:00 PM",
+            "endTime": "12:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "50 Perry Street, Ground Floor,",
+        "title": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "11:00 PM",
+            "endTime": "12:00 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "PRIMETIME NYC (I) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "PRIMETIME NYC (I) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "224 Waverly Place, 1st floor event room.,",
+        "title": "RED DOOR - Red Door",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "224 Waverly Place, 1st floor event room.,",
+        "title": "RED DOOR - Red Door",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "224 Waverly Place, 1st floor event room.,",
+        "title": "RED DOOR - Red Door",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "224 Waverly Place, 1st floor event room.,",
+        "title": "RED DOOR - Red Door",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "224 Waverly Place, 1st floor event room.,",
+        "title": "RED DOOR - Red Door",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "154 Sullivan Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "154 Sullivan Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "154 Sullivan Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "154 Sullivan Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Promises"
+        }
+    },
+    {
+        "address": "154 Sullivan Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "273 Bowery Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:II) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": "Sundays From  7:30 AM to 8:30 AM Special Interest Topic"
+        }
+    },
+    {
+        "address": "273 Bowery Street,",
+        "title": "ROOM FOR IMPROVEMENT     (:II) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": "Saturdays From  7:30 AM to 8:30 AM Special Interest Topic"
+        }
+    },
+    {
+        "address": "371 6th Avenue,  Basement,",
+        "title": "SHERIDAN SQUARE FOLLIES - Sheridan Square Follies",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "155 Sullivan Street, Basement,",
+        "title": "SOHO    (:I) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Interpreted for the Deaf"
+        }
+    },
+    {
+        "address": "155 Sullivan Street, Basement,",
+        "title": "SOHO    (:I) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "155 Sullivan Street, Basement,",
+        "title": "SOHO    (:I) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "155 Sullivan Street, Basement,",
+        "title": "SOHO    (:I) -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:30 PM",
+            "endTime": "9:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "7 East 10th Strert,",
+        "title": "SPIRITUAL WORKSHOP - Spiritual Workshop",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "11:00 AM",
+            "endTime": "12:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Eleventh Step"
+        }
+    },
+    {
+        "address": "232 West 11th Street, Basement,",
+        "title": "T&A-TOGETHERNESS & ACTION -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": "Mondays From  6:30 PM to 7:30 PM Special Interest Women"
+        }
+    },
+    {
+        "address": "81 Christopher Street,",
+        "title": "TEN PLUS -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "273 Bowery, Downstairs,",
+        "title": "THE CAPTAIN'S TABLE -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type BB = Big Book meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "TOGETHER WE CAN -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:45 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "232 West 11th Street,",
+        "title": "WEDNESDAY FOCUS - Wednesday Focus",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:15 PM",
+            "endTime": "7:15 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "83 Christopher Street,  Basement,",
+        "title": "WEST VILLAGE WOMEN -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "220 West Houston Street, 2nd Floor,",
+        "title": "WOMEN INTO ACTION - Women Straight Ahead Saturday",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "4:45 PM",
+            "endTime": "5:45 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Women"
+        }
+    },
+    {
+        "address": "273 Bowery, Classroom Floor,",
+        "title": "WOMEN TOGETHER      (:II) - Women Together    (:II)",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "6:15 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Lesbian"
+        }
+    }
+]

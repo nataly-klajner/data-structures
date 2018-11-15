@@ -1,0 +1,486 @@
+[
+    {
+        "address": "701 West 168th Street @ Fort Washington Avenue,",
+        "title": "A NEW WAY OF LIVING - A New Way Of Living",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "701 West 168th Street @ Fort Washington Avenue,",
+        "title": "A NEW WAY OF LIVING - A New Way Of Living",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "701 West 168th Street @ Fort Washington Avenue,",
+        "title": "A NEW WAY OF LIVING - A New Way Of Living",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "701 West 168th Street @ Fort Washington Avenue,",
+        "title": "A NEW WAY OF LIVING - A New Way Of Living",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "701 West 168th Street @ Fort Washington Avenue,",
+        "title": "A NEW WAY OF LIVING - A New Way Of Living",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type B = Beginners meeting Special Interest Living Sober"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:II) -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "431 West 204th Street, Basement,",
+        "title": "DYCKMAN - Dyckman",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "431 West 204th Street, Basement,",
+        "title": "DYCKMAN - Dyckman",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "550 West 155th Street, 2nd Floor Guild Room,",
+        "title": "FOUND-A-WAY - Found-A-Way",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "12:30 PM",
+            "endTime": "2:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Gay Men"
+        }
+    },
+    {
+        "address": "557 West 156th Street,",
+        "title": "GRUPO DESPERTAR - Grupo Despertar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "8:00 PM",
+            "endTime": "10:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "557 West 156th Street,",
+        "title": "GRUPO DESPERTAR - Grupo Despertar",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "10:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "35 Thayer Street, Basement,",
+        "title": "GRUPO LA FLAMA PANAMERICANA - Grupo La Flama Panamericana",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "35 Thayer Street, Basement,",
+        "title": "GRUPO LA FLAMA PANAMERICANA - Grupo La Flama Panamericana",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:00 PM",
+            "endTime": "10:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "35 Thayer Street, Basement,",
+        "title": "GRUPO LA FLAMA PANAMERICANA - Grupo La Flama Panamericana",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "10:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "35 Thayer Street, Basement,",
+        "title": "GRUPO LA FLAMA PANAMERICANA - Grupo La Flama Panamericana",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "8:00 PM",
+            "endTime": "10:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street, 1st Floor,",
+        "title": "GRUPO LIBERTAD - Grupo Libertad",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street, 1st Floor,",
+        "title": "GRUPO LIBERTAD - Grupo Libertad",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street, 1st Floor,",
+        "title": "GRUPO LIBERTAD - Grupo Libertad",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "9:30 PM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street, 1st Floor,",
+        "title": "GRUPO LIBERTAD - Grupo Libertad",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "9:30 PM",
+            "endTime": "10:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "502 West165th Street, Basement,",
+        "title": "GRUPO RECUPERACION - Grupo Recuperacion",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "2:30 PM",
+            "endTime": "3:30 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "502 West165th Street, Basement,",
+        "title": "GRUPO RECUPERACION - Grupo Recuperacion",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "502 West165th Street, Basement,",
+        "title": "GRUPO RECUPERACION - Grupo Recuperacion",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "91 Arden Street,",
+        "title": "GRUPO UN NUEVO AMANECER - Grupo Un Nuevo Amanecer",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "91 Arden Street,",
+        "title": "GRUPO UN NUEVO AMANECER - Grupo Un Nuevo Amanecer",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "20 Cumming Street,",
+        "title": "HAPPY DESTINY -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "20 Cumming Street,",
+        "title": "HAPPY DESTINY -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "address": "84 Vermilyea Avenue,",
+        "title": "INWOOD FORT TRYON - Inwood-Ft. Tryon",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "84 Vermilyea Avenue,",
+        "title": "INWOOD FORT TRYON - Inwood-Ft. Tryon",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "84 Vermilyea Avenue,",
+        "title": "INWOOD FORT TRYON - Inwood-Ft. Tryon",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "12:30 PM",
+            "endTime": "1:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "620 Isham Street,",
+        "title": "ISHAM PARK - Isham Park",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "2005 Amsterdam Avenue,",
+        "title": "PROGRESS NOT PERFECTION -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "178 Bennett Avenue, 2nd Floor (Lorenz Library),",
+        "title": "THE MEN UPSTAIRS -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "178 Bennett Avenue, 2nd Floor,",
+        "title": "THE MISSING LINK - Missing Link",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "91 Arden Street,",
+        "title": "UPPER MANHATTAN - Upper Manhattan",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "20 Cummings Street,",
+        "title": "UPTOWN SATURDAY NIGHT - Uptown Saturday Night",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "WASHINGTON HEIGHTS                  (:I) - Washington Heights    (:I)",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "189th Street & Bennett Avenue, Kitchen,",
+        "title": "WASHINGTON HEIGHTS                 (:II) - Washington Heights    (:II)",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "178 Bennett Avenue, 2nd Floor,",
+        "title": "WHAT WE ARE LIKE NOW -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "178 Bennett Avenue, Kitchen,",
+        "title": "WOMEN'S NITE - Women's Nite",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    }
+]

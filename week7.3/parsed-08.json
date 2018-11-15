@@ -1,0 +1,431 @@
+[
+    {
+        "address": "109 West 129th Street,  Basement,",
+        "title": "A CHANCE TO LIVE AGAIN - A Chance To Live Again",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "109 West 129th Street,  Basement,",
+        "title": "A CHANCE TO LIVE AGAIN - A Chance To Live Again",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "240 West 145th Street,",
+        "title": "AA IT WORKS  II - AA It Works II",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "240 West 145th Street,",
+        "title": "AA IT WORKS  II - AA It Works II",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "240 West 145th Street,",
+        "title": "AA IT WORKS  II - AA It Works II",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "240 West 145th Street,",
+        "title": "AA IT WORKS  II - AA It Works II",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "ATTITUDE ADJUSTMENT - Attitude Adjustment",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "7:30 AM",
+            "endTime": "8:30 AM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "204 West 134th Street, 1st Floor,",
+        "title": "CONVENT -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "11:30 AM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "2044 Adam Clayton Powell Blvd.,",
+        "title": "FELLOWSHIP AT NOON - Fellowship At Noon",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "2044 Adam Clayton Powell Blvd.,",
+        "title": "FELLOWSHIP AT NOON - Fellowship At Noon",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "2044 Adam Clayton Powell Blvd.,",
+        "title": "FELLOWSHIP AT NOON - Fellowship At Noon",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "12:15 PM",
+            "endTime": "1:15 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "469 West 142nd Street, 1st Floor,",
+        "title": "GRUPO TRASMITELO -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "521 W 126th St,",
+        "title": "HARLEM HUMANISTS -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "meetingType": " Type O = Open meeting Special Interest Agnostic"
+        }
+    },
+    {
+        "address": "109 West 129th Street, Basement,",
+        "title": "K.I.S.S. - Keep It Simple (Kiss)",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "109 West 129th Street, Basement,",
+        "title": "K.I.S.S. - Keep It Simple (Kiss)",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "LEARNING TO LIVE SOBER - Learning To Live Sober",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "2044 Seventh Avenue,",
+        "title": "LIVING CLEAN AND SOBER ON 121st STREET - Living Clean And Sober On 121st Street",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "6:00 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "127 West 127th Street,",
+        "title": "MEDITATION COMES TO HARLEM - Meditation Comes To Harlem",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "4:30 PM",
+            "endTime": "5:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "310 West 139th Street, Basement,",
+        "title": "MID-HARLEM - Mid-Harlem",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    },
+    {
+        "address": "310 West 139th Street, Basement,",
+        "title": "MID-HARLEM - Mid-Harlem",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "310 West 139th Street, Basement,",
+        "title": "MID-HARLEM - Mid-Harlem",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Fridays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "409 West 141st Street,  Basement,",
+        "title": "MONDAY NIGHT CHALLENGE - Monday Night Challenge",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "91 Claremont Avenue,  4th Floor, Room 414,",
+        "title": "PRIMARY PURPOSE - Primary Purpose",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "3:00 PM",
+            "endTime": "4:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting"
+        }
+    },
+    {
+        "address": "1727 Amsterdam Avenue, 1st Floor in the rear.,",
+        "title": "PROMISES TWO FOR ONE - Promises Two For One",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "9:30 AM",
+            "endTime": "10:30 AM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "1727 Amsterdam Avenue, 1st Floor in the rear.,",
+        "title": "PROMISES TWO FOR ONE - Promises Two For One",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "REALITY CHECK - Reality Check",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "5:00 PM",
+            "endTime": "6:00 PM",
+            "meetingType": " Type OD = Open Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "91 Claremont Avenue,  @ The Cloisters Club Room,",
+        "title": "RIVERSIDE - Riverside",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Mondays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "219 West 132nd Street, Cafeteria,",
+        "title": "RIVERTON - Riverton",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "3:00 PM",
+            "endTime": "4:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "219 West 132nd Street, Cafeteria,",
+        "title": "RIVERTON - Riverton",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "219 West 132nd Street, Cafeteria,",
+        "title": "RIVERTON - Riverton",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "meetingType": "Tuesdays From  8:00 PM to 9:00 PM"
+        }
+    },
+    {
+        "address": "211 West 129th Street, Downstairs in the Gym,",
+        "title": "SALEM - Salem",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "meetingType": " Type C = Closed Discussion meeting"
+        }
+    },
+    {
+        "address": "425 West 144th Street, 1st Floor,",
+        "title": "SOBER ADULT MEN - Sober Adult Men",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Wednesdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type C = Closed Discussion meeting Special Interest Men"
+        }
+    },
+    {
+        "address": "204 West 134th Street,  Basement,",
+        "title": "ST. NICHOLAS - St. Nicholas",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "meetingType": " Type O = Open meeting"
+        }
+    },
+    {
+        "address": "204 West 134th Street,  Basement,",
+        "title": "ST. NICHOLAS - St. Nicholas",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Thursdays",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "506 Lenox Avenue,  Room #3101, 3rd Floor,",
+        "title": "STEPS 3 and 11 - Steps Three-Eleven",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Sundays",
+            "startTime": "2:00 PM",
+            "endTime": "3:00 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "1727 Amsterdam Avenue, 1st floor in the rear,",
+        "title": "SUGAR HILL -",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Fridays",
+            "startTime": "5:30 PM",
+            "endTime": "6:30 PM",
+            "meetingType": " Type B = Beginners meeting"
+        }
+    },
+    {
+        "address": "1854 Amsterdam Avenue, Basment,",
+        "title": "TUESDAY BIG BOOK STUDY - Tuesday Big Book Study",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:00 PM",
+            "endTime": "7:00 PM",
+            "meetingType": " Type BB = Big Book meeting"
+        }
+    },
+    {
+        "address": "469 West 142nd Street, Basement,",
+        "title": "UPTOWN BIG BOOK WORKSHOP -",
+        "wheelchairAccess": false,
+        "info": {
+            "day": "Saturdays",
+            "startTime": "9:30 AM",
+            "endTime": "11:00 AM",
+            "meetingType": " Type BB = Big Book meeting Special Interest Big Book Workshop"
+        }
+    },
+    {
+        "address": "58-66 West 135th Street,",
+        "title": "YOU MAY CARE AFTER - You May Care After",
+        "wheelchairAccess": true,
+        "info": {
+            "day": "Tuesdays",
+            "startTime": "6:30 PM",
+            "endTime": "7:30 PM",
+            "meetingType": " Type S = Step meeting"
+        }
+    }
+]
