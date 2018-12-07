@@ -48,18 +48,186 @@ var dynamodb = new AWS.DynamoDB();
 //   },
 //   }
   
+  // var myItem = {
+  //   title: {
+  //     S: "My apartment"
+  //   },
+  //   location: {
+  //     S: "Home"
+  //   },
+  //   pk: {
+  //     S: "oct11"
+  //   },
+  //   skills: {
+  //     SS: ["learning how to properly clean a bathroom", "learning how to cook", "buying and fixing up furniture"]
+  //   },
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Parents in NYC"
+  //   },
+  //   pk: {
+  //     S: "oct13"
+  //   },
+  //   miss: {
+  //     S: "having them around"
+  //   },
+  //   thought: {
+  //     S: "weekend seemed a lot longer since we did so much"
+  //   },
+  //   skills: {
+  //     SS: ["hosting people in my apartment", "becoming a NY tour guide"]
+  //   },
+  //   commute: {
+  //     S: "we used Uber and Lyft a lot"
+  //   },
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Back to normal"
+  //   },
+  //   pk: {
+  //     S: "oct15"
+  //   },
+  //   food: {
+  //     S: "packing lunch to eat at school"
+  //   },
+  //   mood: {
+  //     S: "missing my parents"
+  //   },
+  //   schoolwork: {
+  //     S: "a lot"
+  //   },
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Working on school project"
+  //   },
+  //   pk: {
+  //     S: "oct19"
+  //   },
+  //   course: {
+  //     S: "type & interaction"
+  //   },
+  //   location: {
+  //     S: "Shefali's place"
+  //   },
+  //   time: {
+  //     S: "Friday afternoon"
+  //   },
+  //   snacks: {
+  //     SS: ["mini pretzel", "chips"]
+  //   },
+  // }
+  
+  //   var myItem = {
+  //   title: {
+  //     S: "Halloween party"
+  //   },
+  //   pk: {
+  //     S: "oct26"
+  //   },
+  //   location: {
+  //     S: "Clemence's place"
+  //   },
+  //   food: {
+  //     S: "Artichoke pizza"
+  //   },
+  //   costume: {
+  //     S: "skeleton"
+  //   },
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Brazil Elections"
+  //   },
+  //   pk: {
+  //     S: "oct28"
+  //   },
+  //   location: {
+  //     S: "far away in São Paulo"
+  //   },
+  //   dontMiss: {
+  //     S: "discussing Brazilian politics"
+  //   },
+  //   thought: {
+  //     S: "this is all my friends and family are talking about"
+  //   },
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Halloween"
+  //   },
+  //   pk: {
+  //     S: "oct31"
+  //   },
+  //   location: {
+  //     S: "6th Ave"
+  //   },
+  //   time: {
+  //     S: "7pm"
+  //   },
+  //   streets: {
+  //     S: "packed with people in costumes, a little like Carnaval"
+  //   },
+  //   skills: {
+  //     S: "experience of surfing through the crowd"
+  //   }
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Rocky Horror Picture Show"
+  //   },
+  //   pk: {
+  //     S: "nov03"
+  //   },
+  //   location: {
+  //     S: "Cinepolis Chelsea"
+  //   },
+  //   friends: {
+  //     SS: ["Shefali", "Clemence"]
+  //   },
+  //   commute: {
+  //     S: "walked there, lyft back home"
+  //   },
+  // }
+  
+  // var myItem = {
+  //   title: {
+  //     S: "Time difference change"
+  //   },
+  //   pk: {
+  //     S: "nov04"
+  //   },
+  //   mood: {
+  //     S: "upset that now there's a 3-hour difference between NY and São Paulo"
+  //   },
+  //   miss: {
+  //     S: "talking to friends and family anytime of the day"
+  //   },
+  // }
+  
   var myItem = {
     title: {
-      S: "My apartment"
-    },
-    location: {
-      S: "Home"
+      S: "Bohemian Rapsody"
     },
     pk: {
-      S: "oct11"
+      S: "nov08"
     },
-    skills: {
-      SS: ["learning how to properly clean a bathroom", "learning how to cook", "buying and fixing up furniture"]
+    location: {
+      S: "AMC Kips Bay"
+    },
+    time: {
+      S: "6:30pm"
+    },
+    movie: {
+      S: "loved it"
     },
   }
   
