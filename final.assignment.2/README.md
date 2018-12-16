@@ -44,11 +44,9 @@ The sketching can be found in [Week 11](https://github.com/nataly-klajner/data-s
 
 ## Part 6 - FINAL
 
-Using the query from the previous Part 4, I included the diary query in the final [server.js]()
+Using the query from the previous Part 4, I included the diary query in the final [server.js](https://github.com/nataly-klajner/data-structures/blob/master/final.assignment.2/server.js)
 
-The code in [diary.html]() is an example of how the visualization would look like.
-
-All useful files can be found in [Final Assignment 2]()
+The code in [diary.html](https://github.com/nataly-klajner/data-structures/blob/master/final.assignment.2/public/diary.html) is an example of how the visualization would look like.
 
 ## Next steps
 
