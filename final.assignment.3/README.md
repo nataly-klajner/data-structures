@@ -46,7 +46,7 @@ The sketching can be found in [Week 11](https://github.com/nataly-klajner/data-s
 
 ## Part 5
 
-With the [Week 10](https://github.com/nataly-klajner/data-structures/tree/master/week10) assignment I used exprees in node.js to create a web server application for all the 3 assignments we had been working on. 
+With the [Week 10](https://github.com/nataly-klajner/data-structures/tree/master/week10) assignment I used express in node.js to create a web server application for all the 3 assignments we had been working on. 
 
 For the temperature sensor, I wrote an SQL query to show the average value of each day the sensor was functioning. 
 
