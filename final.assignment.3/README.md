@@ -16,7 +16,7 @@ The code (written in https://build.particle.io/) can be seen in the image below:
 
 Here is an screenshot of how the url including the devide id and token displayed the result:
 
-![](particle-api-temperature.png)
+![](../week8/particle-api-temperature.png)
 
 In this .json code, the temperature can be seen as "result", in degrees Celsius.
 
