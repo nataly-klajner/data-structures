@@ -120,8 +120,6 @@ For the final part I used the query previously written but included more info, s
 
 The visualization of the map was possible using the Leaflet open source library and the starter code.
 
-All useful files can be found in [Final Assignment 1]()
-
 ## Next Steps
 
 For the future I would like to:
