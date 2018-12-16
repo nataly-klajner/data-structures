@@ -26,7 +26,7 @@ To make the Diary more interesting I wrote more entries, resulting in one month 
 
 ## Part 4
 
-With the [Week 10](https://github.com/nataly-klajner/data-structures/tree/master/week10) assignment I used exprees in node.js to create a web server application for all the 3 assignments we had been working on.
+With the [Week 10](https://github.com/nataly-klajner/data-structures/tree/master/week10) assignment I used express in node.js to create a web server application for all the 3 assignments we had been working on.
 
 For the Dear Diary data the entries have 2 conditions:
 - The entry will always be selected by the date, which is the primary key
