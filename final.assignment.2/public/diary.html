@@ -1,0 +1,12 @@
+var data = ['this is my data', 'this is some more data', 'third diary entry']
+
+var a = "<h1>This is my title</h1>"
+// var b = '<p>' + data[0] + '</p>'
+
+var page = '';
+
+for (var i=0; i<data.length; i++) {
+    page = page + a + '<p>' + data[i] + '</p>'
+}
+
+console.log(page)
