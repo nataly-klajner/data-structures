@@ -94,7 +94,7 @@ The resulting .json files and code can be found in [Week 7.3](https://github.com
 
 ## Part 7
 
-With the [Week 10](https://github.com/nataly-klajner/data-structures/tree/master/week10) assignment I used exprees in node.js to create a web server application for all the 3 assignments we had been working on. 
+With the [Week 10](https://github.com/nataly-klajner/data-structures/tree/master/week10) assignment I used express in node.js to create a web server application for all the 3 assignments we had been working on. 
 
 For the AA meetings, I wrote a query to select the meetings that happened on Sunday, at 6 PM and had wheelchair access, showing their location, start time as well. 
 
